@@ -8,6 +8,8 @@
 
 This repository contains the **starter files** for the **JHS2 Training Programs**. This includes images, fonts, audio files, code templates, and other supporting resources. It is designed to help you get started quickly and make your training and learning experience as smooth as possible.
 
+For the gamepad assembly instructions, see this [Canva guide](https://canva.link/o5rkbahdtr5zvse). This link may be updated over time, so check back for the latest version.
+
 ---
 
 Share with us your awesome ideas:
