@@ -10,6 +10,7 @@ python <example_file>.py
 | File                 | Shows how to                                     | Pin(s)               |
 | -------------------- | ------------------------------------------------ | -------------------- |
 | `read_digital.py`    | Read a digital input (`DigitalInput`)            | D2                   |
+| `read_digital_input_pullup.py` | Read a digital input with the built-in pull-up resistor (`DigitalInputPullup`) | D2 |
 | `read_analog.py`     | Read an analog input, 0-1023 (`AnalogInput`)     | A0                   |
 | `write_digital.py`   | Turn an LED on and off (`DigitalOutput`)         | D13                  |
 | `write_pwm.py`       | Fade an LED with PWM (`PwmOutput`)               | D9                   |

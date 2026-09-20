@@ -11,7 +11,7 @@ while True:
 
         if led_is_on:
             led.on()
+            print("LED ON")
         else:
             led.off()
-
-        print("LED on:", led_is_on)
+            print("LED OFF")
