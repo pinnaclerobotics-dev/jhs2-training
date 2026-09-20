@@ -10,6 +10,13 @@ This repository contains the **starter files** for the **JHS2 Training Programs*
 
 For the gamepad assembly instructions, see this [Canva guide](https://canva.link/o5rkbahdtr5zvse). This link may be updated over time, so check back for the latest version.
 
+## Demos
+
+Check out the [demo](demo/) folder for examples of using the **pygame-ce** and **pynnacle-nexus** packages.
+
+- [walking_and_shooting](demo/walking_and_shooting/) is a pygame-ce game demo. It comes with **2 extra challenges**, so try to accomplish them!
+- [nexus_examples](demo/nexus_examples/) has small pynnacle-nexus examples for the Pinnacle Nexus board.
+
 ---
 
 Share with us your awesome ideas:
